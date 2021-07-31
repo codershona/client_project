@@ -8,6 +8,40 @@ The first task will be I had to setup the SSH on our github account?
 
 * Client ====> Secure Shell Protocol(SSH)+(Internet) ---> HOST
 * ssh { user }@{ host }
+* SSH Commands, Setupping with Digital Ocean, The workflowof SSH, Symmetric Encryption, Asymmetric Encryption and Hashing, SSH into a server, setupping SSh on Github. 
+
+## Working with Performance 1
+### Task 2
+
+* Keys of the performance and Network Performance, we need to check the internet speed of the webpage. Measn website load performance becasue fast user experience is most important. We need to make our code more performant and website faster. 
+
+* Here, when the client browse the website for example we have a client a server. 
+
+* How can we think critically about the performance and improve the process?
+
+* Frontend(Client) + Backend(Server)
+* 3 ways to speed up a website and applications. They are customer satisfaction, retention and conversion. 
+
+* Firstly, we need to improve the client side which is frontend of the application. Because it needs time to render the page on the screen.
+
+* Secondly, we can improve the transfer of our files over the wire. Network latency which has every request that needs time to travel from the clent to the server and back. 
+
+* Thirdly, we can improve the processing done in the backend or backend processing. The web servers needs time to load data from the database and assemble the website. 
+
+* Focus on to improve 90 percent of the speed. 
+
+* Frontend needs to focus on improving in critical render path, optimized code and progressive web app(pwa).
+
+* In Backend we need to focus on improving the CDNs, Caching, Load Balancing, DB Scaling and GZIP.
+
+* Frontend + Backend = Minimize files + Minimize Delivery to improve the web app speed.
+
+* <b>Network Performance:</b> we need to minimze and shrunk the files. Such as minimizing the text file like JS file, CSS files, and HTML files.We use UglyfyJS 3 Tools (Online Javascript minifier) to minimze the text file codes. This is a part of the build process.
+
+* <b>Image File formats:</b> Next minimizing the images like JPG format files etc. This is important to think about which could slow the apps speed. Image file Formats like JGP, JPEG, SVG, GIF, PNG etc. SVG is called vector graphics.
+
+
+
 
 
 
