@@ -61,7 +61,10 @@ To minimize images here we can follow these steps:
 * Resize image based on size it will be displayed.
 * Display different sized images for different backgrounds.
 * Use <b>CDNs</b> Tools like:
-    * **[imigx](https://imgix.com/)**
+    * **[imgix](https://imgix.com/)**
+    * **[verexif](https://www.verexif.com/en/)**
+    * **[Media queries resources](https://gist.github.com/bartholomej/8415655)**
+    * **[Media queries Cheatsheet resources](https://css-tricks.com/snippets/css media-queries-for-standard-devices/)**
 
 * Remove image metadata.
 
