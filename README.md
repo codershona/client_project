@@ -61,7 +61,7 @@ To minimize images here we can follow these steps:
 * Resize image based on size it will be displayed.
 * Display different sized images for different backgrounds.
 * Use <b>CDNs</b> Tools like:
-    * imigx
+    * **[imigx](https://imgix.com/)**
 
 * Remove image metadata.
 
