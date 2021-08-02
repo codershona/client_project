@@ -1,4 +1,4 @@
-console.log('this is script 2')
+console.log('this is script Two')
 
 // Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 // tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
