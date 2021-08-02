@@ -67,6 +67,7 @@ To minimize images here we can follow these steps:
 
 * Remove image metadata. Tools:
      * **[verexif](https://www.verexif.com/en/)**
+<br/>
 This will help you to remove your image metadata.
 
 
