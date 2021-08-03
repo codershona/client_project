@@ -79,7 +79,8 @@ This will help you to remove your image metadata.
    * DOMContentLoaded ----> DOM ----> CSSOM ----> Render Tree ------> Layout -------> Paint -----> Load
    * HTML + JS + CSS -----> CSSDOM -----> Render Tree
    * JS -----> Render Tree
-   * 
+   * <b>HTML :</b> Load style tag in the ```<head>``` and load script right before ```</body>```
+   *
 
 * **[Resources: Async + Defer](https://stackoverflow.com/questions/10808109/script-tag-async-defer)**
 
