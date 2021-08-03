@@ -85,7 +85,34 @@ This will help you to remove your image metadata.
 
 * **[Prefetching](https://css-tricks.com/prefetching-preloading-prebrowsing/)**
 
-*  <b>Performance Tools: </b> **[Dev Tools](https://css-tricks.com/prefetching-preloading-prebrowsing/)**
+*  <b>Performance Tools: </b>
+    * **[Dev Tools](https://developer.chrome.com/docs/devtools/evaluate-performance/reference/#activities)**
+
+    * **[Analyze frames per second (FPS)](https://developer.chrome.com/docs/devtools/evaluate-performance/reference/#fps)**
+    * **[Performance Monitor Tool](https://developer.chrome.com/blog/new-in-devtools-64/#perf-monitor)**
+    * **[Capture screenshots while recording](https://developer.chrome.com/docs/devtools/evaluate-performance/reference/#screenshots)**
+    * **[View interactions](https://developer.chrome.com/docs/devtools/evaluate-performance/reference/#interactions)**
+    * **[Find scroll performance issues in real-time](https://developer.chrome.com/docs/devtools/evaluate-performance/reference/#scrolling-performance-issues)**
+    * **[View paint events in real-time](https://developer.chrome.com/docs/devtools/evaluate-performance/reference/#paint-flashing)**
+    * **[View main thread activity](https://developer.chrome.com/docs/devtools/evaluate-performance/reference/#main)**
+    * **[Optimizilla](https://imagecompressor.com/)**
+    * **[PingDom](https://tools.pingdom.com/)**
+    * **[Think with google](https://www.thinkwithgoogle.com/feature/testmysite/)**
+    * **[Lighthouse](https://developers.google.com/web/tools/lighthouse/)**
+    * **[Website Speed Ranker](https://rigor.com/labs-maintenance/)**
+    * **[imgix Page Weight Tool](https://pageweight.imgix.com/?ref=producthunt)**
+    * **[Passmarked](https://passmarked.com/?ref=producthunt)**
+    * **[Images Guide Page Load Times](https://web.dev/fast/#optimize-your-images)**
+    * **[Developer Google](https://developers.google.com/speed/pagespeed/insights/)**
+    * **[Crazyegg](https://www.crazyegg.com/blog/image-editing-tools/)**
+
+* <b>Image manipulation tools:</b>
+   * **[XNConvert](https://www.xnview.com/en/xnconvert/)**
+   * **[ImageOptim](https://imageoptim.com/mac)**
+   * **[ResizeIt](https://itunes.apple.com/us/app/resizeit/id416280139?mt=12)**
+   * **[PicResize](https://picresize.com/)**
+   * **[Gimp](https://www.gimp.org/)**
+
 
 * **[HTTP/2](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/learn/lecture/10210926#questions)**
 
