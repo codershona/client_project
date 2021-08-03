@@ -73,8 +73,11 @@ This will help you to remove your image metadata.
 * Delivery Optimizations:
    * **[Resources to follow Max Parallel Requests Per Browser](https://stackoverflow.com/questions/985431/max-parallel-http-connections-in-a-browser)**
 
-* <b>Network Optimizations</b>
+* <b>Network Optimizations:</b>
+   * Tools: **[Javascript Minifier](https://javascript-minifier.com/)** **[Minifier](https://www.minifier.org/)**
 
+
+* **[Resources: Async + Defer](https://stackoverflow.com/questions/10808109/script-tag-async-defer)**
 
 
 
