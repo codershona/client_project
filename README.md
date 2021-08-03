@@ -75,7 +75,11 @@ This will help you to remove your image metadata.
 
 * <b>Network Optimizations:</b>
    * Tools: **[Javascript Minifier](https://javascript-minifier.com/)** **[Minifier](https://www.minifier.org/)**
-
+* <b>Critical Render Path:</b>
+   * DOMContentLoaded ----> DOM ----> CSSOM ----> Render Tree ------> Layout -------> Paint -----> Load
+   * HTML + JS + CSS -----> CSSDOM -----> Render Tree
+   * JS -----> Render Tree
+   * 
 
 * **[Resources: Async + Defer](https://stackoverflow.com/questions/10808109/script-tag-async-defer)**
 
