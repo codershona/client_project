@@ -82,7 +82,7 @@ This will help you to remove your image metadata.
    * <b>HTML :</b> Load style tag in the ```<head>``` and load script right before ```</body>```
    * <b>CSS :</b> Only load whatever is needed and above the fold loading the media attributes, less specificity.
 
-   * <b>JavaScript :</b> Load scripts asynchronously, defer loading of scripts, minimizing DOM manipulation and avoid long running JavaScript.
+   * <b>JavaScript :</b> Load scripts asynchronously, defer loading of scripts, minimizing DOM manipulation and avoid long running JavaScript. We can now read and execute the JavaScript code.
 
 
 * **[Prefetching](https://css-tricks.com/prefetching-preloading-prebrowsing/)**
@@ -123,7 +123,9 @@ This will help you to remove your image metadata.
 * **[Resources: Async + Defer](https://stackoverflow.com/questions/10808109/script-tag-async-defer)**
 
 
+* URL we can test on webpage two tools **[PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)** **[WebPageTest](https://www.webpagetest.org/)**
 
+* Create a **[Github pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)**
 
 
 
