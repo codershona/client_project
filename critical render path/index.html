@@ -1,4 +1,3 @@
-
 <!--
 HTML
   #1 Load <style> in <head>
@@ -25,23 +24,23 @@ JS
 
 </head>
 <body>
-  <h1>How Fast?</h1>
-  <button>Click Me</button>
+  <h1>How Fast the dog was?</h1>
+  <button>Click Me here</button>
   <img src="https://5.imimg.com/data5/GR/PD/MY-4659120/img-20161230-wa0170-500x500.jpg">
 
   <!-- Render blocking and Parser blocking JS -->
-<!--   <script>
+  <script>
     var button = document.querySelector("button");
     button.style.color = "red";
-  </script> -->
-  {% comment %} Javascript scripts should be placed in bottom {% endcomment %}
+  </script>
+  <!-- Javascript scripts should be placed in bottom -->
   <script src="./script.js"></script>
   <script src="./script2.js" async></script>
   <script src="./script3.js"></script>
   <script>
     const button = document.querySelector("button");
     button.addEventListener("click", function () {
-      alert("Stop Clicking Me!");
+      alert("Stop Clicking Me, please please!");
     });
   </script>
 </body>

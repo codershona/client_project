@@ -80,7 +80,9 @@ This will help you to remove your image metadata.
    * HTML + JS + CSS -----> CSSDOM -----> Render Tree
    * JS -----> Render Tree
    * <b>HTML :</b> Load style tag in the ```<head>``` and load script right before ```</body>```
-   * <b>CSS :</b> Only load whatever is needed and above the fold loading the media attributes less specificity.
+   * <b>CSS :</b> Only load whatever is needed and above the fold loading the media attributes, less specificity.
+
+   * <b>JavaScript :</b> Load scripts asynchronously, defer loading of scripts, minimizing DOM manipulation and avoid long running JavaScript.
 
 
 * **[Prefetching](https://css-tricks.com/prefetching-preloading-prebrowsing/)**
